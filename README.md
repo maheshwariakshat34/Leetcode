@@ -10,3 +10,11 @@ This repository contains my solutions to LeetCode problems solved in Java.
 - Java
 
 Happy Coding! 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/maheshwariakshat34/Leetcode/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
