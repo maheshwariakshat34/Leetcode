@@ -22,8 +22,13 @@ Happy Coding!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0414-third-maximum-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
