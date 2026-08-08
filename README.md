@@ -17,6 +17,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/maheshwariakshat34/Leetcode/tree/master/0007-reverse-integer) |
+| [3099-harshad-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/3099-harshad-number) |
 ## Array
 |  |
 | ------- |
