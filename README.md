@@ -22,6 +22,7 @@ Happy Coding!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/maheshwariakshat34/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0414-third-maximum-number) |
@@ -37,6 +38,7 @@ Happy Coding!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/maheshwariakshat34/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
