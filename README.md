@@ -18,6 +18,7 @@ Happy Coding!
 | ------- |
 | [0007-reverse-integer](https://github.com/maheshwariakshat34/Leetcode/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/maheshwariakshat34/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/maheshwariakshat34/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3099-harshad-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/3099-harshad-number) |
 ## Array
