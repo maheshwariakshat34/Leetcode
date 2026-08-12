@@ -30,6 +30,7 @@ Happy Coding!
 | [0229-majority-element-ii](https://github.com/maheshwariakshat34/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0414-third-maximum-number) |
+| [1929-concatenation-of-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +71,8 @@ Happy Coding!
 | ------- |
 | [0169-majority-element](https://github.com/maheshwariakshat34/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/maheshwariakshat34/Leetcode/tree/master/0229-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
