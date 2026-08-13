@@ -17,6 +17,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/maheshwariakshat34/Leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/maheshwariakshat34/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/maheshwariakshat34/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/maheshwariakshat34/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -75,4 +76,12 @@ Happy Coding!
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/1929-concatenation-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/maheshwariakshat34/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/maheshwariakshat34/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
