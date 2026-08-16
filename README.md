@@ -56,6 +56,7 @@ Happy Coding!
 | [0242-valid-anagram](https://github.com/maheshwariakshat34/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/maheshwariakshat34/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Happy Coding!
 | [0344-reverse-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0796-rotate-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/maheshwariakshat34/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
 | ------- |
