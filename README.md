@@ -41,6 +41,7 @@ Happy Coding!
 | [0148-sort-list](https://github.com/maheshwariakshat34/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0344-reverse-string) |
+| [3794-reverse-string-prefix](https://github.com/maheshwariakshat34/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Happy Coding!
 | [0387-first-unique-character-in-a-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maheshwariakshat34/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3794-reverse-string-prefix](https://github.com/maheshwariakshat34/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Queue
 |  |
 | ------- |
