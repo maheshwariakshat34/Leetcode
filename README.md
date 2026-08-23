@@ -22,6 +22,7 @@ Happy Coding!
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/maheshwariakshat34/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/maheshwariakshat34/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3099-harshad-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/3099-harshad-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/maheshwariakshat34/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |
