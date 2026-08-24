@@ -46,6 +46,7 @@ Happy Coding!
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/maheshwariakshat34/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/maheshwariakshat34/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/maheshwariakshat34/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/maheshwariakshat34/Leetcode/tree/master/0229-majority-element-ii) |
@@ -102,6 +103,7 @@ Happy Coding!
 ## Linked List
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/maheshwariakshat34/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/maheshwariakshat34/Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
