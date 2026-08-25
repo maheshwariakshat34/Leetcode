@@ -20,6 +20,7 @@ Happy Coding!
 | [0070-climbing-stairs](https://github.com/maheshwariakshat34/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/maheshwariakshat34/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/maheshwariakshat34/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/maheshwariakshat34/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3099-harshad-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/3099-harshad-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/maheshwariakshat34/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -72,6 +73,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/maheshwariakshat34/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
