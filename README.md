@@ -17,6 +17,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/maheshwariakshat34/Leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/maheshwariakshat34/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/maheshwariakshat34/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/maheshwariakshat34/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -149,4 +150,8 @@ Happy Coding!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/maheshwariakshat34/Leetcode/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/maheshwariakshat34/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
