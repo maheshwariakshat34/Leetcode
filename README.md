@@ -101,6 +101,7 @@ Happy Coding!
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Happy Coding!
 | [0387-first-unique-character-in-a-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maheshwariakshat34/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3498-reverse-degree-of-a-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/maheshwariakshat34/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Queue
 |  |
