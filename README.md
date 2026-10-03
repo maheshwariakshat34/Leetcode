@@ -36,6 +36,7 @@ Happy Coding!
 | [0209-minimum-size-subarray-sum](https://github.com/maheshwariakshat34/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/maheshwariakshat34/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/maheshwariakshat34/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/maheshwariakshat34/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/maheshwariakshat34/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -48,6 +49,7 @@ Happy Coding!
 | [0075-sort-colors](https://github.com/maheshwariakshat34/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/maheshwariakshat34/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/maheshwariakshat34/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0344-reverse-string) |
 | [3794-reverse-string-prefix](https://github.com/maheshwariakshat34/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
