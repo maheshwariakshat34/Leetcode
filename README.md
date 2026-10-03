@@ -40,6 +40,7 @@ Happy Coding!
 | [0303-range-sum-query-immutable](https://github.com/maheshwariakshat34/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/maheshwariakshat34/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0905-sort-array-by-parity](https://github.com/maheshwariakshat34/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakshat34/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1929-concatenation-of-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -51,6 +52,7 @@ Happy Coding!
 | [0151-reverse-words-in-a-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/maheshwariakshat34/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/maheshwariakshat34/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [3794-reverse-string-prefix](https://github.com/maheshwariakshat34/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -63,6 +65,7 @@ Happy Coding!
 | [0242-valid-anagram](https://github.com/maheshwariakshat34/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/maheshwariakshat34/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
