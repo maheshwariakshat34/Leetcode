@@ -43,6 +43,7 @@ Happy Coding!
 | [0905-sort-array-by-parity](https://github.com/maheshwariakshat34/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakshat34/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1929-concatenation-of-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/maheshwariakshat34/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Happy Coding!
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/maheshwariakshat34/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/maheshwariakshat34/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,4 +178,5 @@ Happy Coding!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/maheshwariakshat34/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakshat34/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/maheshwariakshat34/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
