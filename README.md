@@ -44,6 +44,7 @@ Happy Coding!
 | [0704-binary-search](https://github.com/maheshwariakshat34/Leetcode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/maheshwariakshat34/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakshat34/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/maheshwariakshat34/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Two Pointers
@@ -89,6 +90,7 @@ Happy Coding!
 | [0441-arranging-coins](https://github.com/maheshwariakshat34/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/maheshwariakshat34/Leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakshat34/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
