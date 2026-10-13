@@ -20,6 +20,7 @@ Happy Coding!
 | [0050-powx-n](https://github.com/maheshwariakshat34/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/maheshwariakshat34/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/maheshwariakshat34/Leetcode/tree/master/0441-arranging-coins) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/maheshwariakshat34/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/maheshwariakshat34/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/maheshwariakshat34/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -85,6 +86,7 @@ Happy Coding!
 | [0074-search-a-2d-matrix](https://github.com/maheshwariakshat34/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/maheshwariakshat34/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/maheshwariakshat34/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/maheshwariakshat34/Leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakshat34/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
