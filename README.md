@@ -47,6 +47,7 @@ Happy Coding!
 | [1539-kth-missing-positive-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/maheshwariakshat34/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3834-merge-adjacent-equal-elements](https://github.com/maheshwariakshat34/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Happy Coding!
 | ------- |
 | [1929-concatenation-of-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3834-merge-adjacent-equal-elements](https://github.com/maheshwariakshat34/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,4 +187,8 @@ Happy Coding!
 | [0074-search-a-2d-matrix](https://github.com/maheshwariakshat34/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakshat34/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/maheshwariakshat34/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+## Stack
+|  |
+| ------- |
+| [3834-merge-adjacent-equal-elements](https://github.com/maheshwariakshat34/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 <!---LeetCode Topics End-->
