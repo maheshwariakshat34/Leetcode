@@ -1,8 +1,8 @@
 class Solution {
     public List<Long> mergeAdjacent(int[] nums) {
-         Stack<Long> st = new Stack<>();
+        Stack<Long> st = new Stack<>();
 
-        for (int num : nums) {
+        for(int num : nums){
 
             long curr = num;
 
@@ -13,7 +13,6 @@ class Solution {
 
             st.push(curr);
         }
-
         return st;
         
     }
