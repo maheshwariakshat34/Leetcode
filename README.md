@@ -36,6 +36,7 @@ Happy Coding!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/maheshwariakshat34/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/maheshwariakshat34/Leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/maheshwariakshat34/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/maheshwariakshat34/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/maheshwariakshat34/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/maheshwariakshat34/Leetcode/tree/master/0229-majority-element-ii) |
@@ -92,6 +93,7 @@ Happy Coding!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/maheshwariakshat34/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/maheshwariakshat34/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/maheshwariakshat34/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/maheshwariakshat34/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/maheshwariakshat34/Leetcode/tree/master/0441-arranging-coins) |
