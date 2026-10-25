@@ -149,6 +149,7 @@ Happy Coding!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/maheshwariakshat34/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/maheshwariakshat34/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0344-reverse-string) |
@@ -200,9 +201,14 @@ Happy Coding!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/maheshwariakshat34/Leetcode/tree/master/0020-valid-parentheses) |
 | [3834-merge-adjacent-equal-elements](https://github.com/maheshwariakshat34/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/maheshwariakshat34/Leetcode/tree/master/0069-sqrtx) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/maheshwariakshat34/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
