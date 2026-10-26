@@ -45,6 +45,7 @@ Happy Coding!
 | [0283-move-zeroes](https://github.com/maheshwariakshat34/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/maheshwariakshat34/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/maheshwariakshat34/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/maheshwariakshat34/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/maheshwariakshat34/Leetcode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/maheshwariakshat34/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -86,6 +87,7 @@ Happy Coding!
 | [0242-valid-anagram](https://github.com/maheshwariakshat34/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/maheshwariakshat34/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/maheshwariakshat34/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/maheshwariakshat34/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
@@ -202,6 +204,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwariakshat34/Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/maheshwariakshat34/Leetcode/tree/master/0496-next-greater-element-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/maheshwariakshat34/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Newton's Method
 |  |
@@ -211,4 +214,8 @@ Happy Coding!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwariakshat34/Leetcode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/maheshwariakshat34/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
