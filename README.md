@@ -49,6 +49,7 @@ Happy Coding!
 | [0643-maximum-average-subarray-i](https://github.com/maheshwariakshat34/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/maheshwariakshat34/Leetcode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/maheshwariakshat34/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/0912-sort-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakshat34/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -77,6 +78,7 @@ Happy Coding!
 | [0268-missing-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/maheshwariakshat34/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/0912-sort-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/maheshwariakshat34/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Hash Table
 |  |
@@ -114,6 +116,7 @@ Happy Coding!
 | ------- |
 | [0148-sort-list](https://github.com/maheshwariakshat34/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/maheshwariakshat34/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -148,6 +151,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/maheshwariakshat34/Leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -218,4 +222,20 @@ Happy Coding!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/maheshwariakshat34/Leetcode/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
