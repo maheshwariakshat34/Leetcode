@@ -51,6 +51,7 @@ Happy Coding!
 | [0905-sort-array-by-parity](https://github.com/maheshwariakshat34/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/0912-sort-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakshat34/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/maheshwariakshat34/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/maheshwariakshat34/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/maheshwariakshat34/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/maheshwariakshat34/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -209,6 +210,7 @@ Happy Coding!
 | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwariakshat34/Leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/maheshwariakshat34/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/maheshwariakshat34/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3834-merge-adjacent-equal-elements](https://github.com/maheshwariakshat34/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Newton's Method
 |  |
@@ -222,6 +224,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/maheshwariakshat34/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/maheshwariakshat34/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
